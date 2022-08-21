@@ -10,7 +10,7 @@ class pattern02 {
         while (row <= n) {
             cst = 1;
             while (cst <= nst) {
-                System.out.print("*");
+                System.out.print("* ");
                 cst++;
             }
             System.out.println("");
