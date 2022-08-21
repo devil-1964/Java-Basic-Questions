@@ -1,3 +1,14 @@
+/*
+Output-
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+*/
+
 import java.util.*;
 class pattern04
 {
